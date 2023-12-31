@@ -2,6 +2,6 @@
 
 int main() {
 
-    std::cout << "Hello, World!" << std::endl;
+    vana_sathi << "Namaskar Sansar!";
 
 }
