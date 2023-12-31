@@ -1,5 +1,3 @@
-Certainly! Below is an updated README with a table providing links to the developers' portfolios.
-
 # NepLangCPP
 
 Welcome to the NepLangCPP repository! NepLangCPP is a programming language designed for fun and experimentation. Please note that it is not intended for serious use but rather as a playful and creative exploration of programming concepts in a Nepali-inspired syntax.
