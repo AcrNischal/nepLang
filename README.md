@@ -107,11 +107,9 @@ If you have any questions, feedback, or suggestions, feel free to reach out to u
 
 NepLangCPP is developed and maintained by Nishchal Acharya and Sahil Acharya.
 
-| Developer         | Portfolio                                  |
-| ----------------- | ------------------------------------------ |
-| Nishchal Acharya  | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal Acharya" width="100"/>
-                      [https://nishchalacharya.com.np](https://nishchalacharya.com.np)  |
-| Sahil Acharya     | <img src="https://sahilacharya.com.np/img/hero.png" alt="Sahil Acharya" width="100"/>
-                      [https://sahilacharya.com.np](https://sahilacharya.com.np) |
+| Developer         | Portfolio                                  | Photo |
+| ----------------- | ------------------------------------------ |-------|
+| Nishchal Acharya  | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal Acharya" width="100"/> | [https://nishchalacharya.com.np](https://nishchalacharya.com.np)  |
+| Sahil Acharya     | <img src="https://sahilacharya.com.np/img/hero.png" alt="Sahil Acharya" width="100"/> | [https://sahilacharya.com.np](https://sahilacharya.com.np) |
 
 Enjoy coding in NepLangCPP for some lighthearted programming fun! 🎉
