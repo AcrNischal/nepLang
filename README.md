@@ -15,7 +15,7 @@ To start playing with NepLangCPP, follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/nepLangCPP.git
+   https://github.com/Nischal-Acharya/nepLang.git
    ```
 
 2. **Include the NepLangCPP Header:**
