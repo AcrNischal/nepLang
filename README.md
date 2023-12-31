@@ -26,18 +26,18 @@ To start playing with NepLangCPP, follow these simple steps:
 
 3. **Write Your NepLangCPP Code:**
    ```cpp
-   thuloAanka gara_pheri(natrasamet main() {
+   int main() {
        sankhya a = 5;
        sankhya b = 10;
 
        yedi (a < b) {
-           vana_sathi("b bhaneko a bata thulo cha.\n");
+           vana_sathi << "b bhaneko a bata thulo cha.";
        } vaynaVane {
-           vana_sathi("a bhaneko b bata thulo cha.\n");
+           vana_sathi << "a bhaneko b bata thulo cha.";
        }
 
        xordeu
-   })
+   }
    ```
 
 4. **Compile and Run:**
@@ -71,28 +71,29 @@ Feel free to explore more in the examples section.
 
 ### Example 1: Hello World
 ```cpp
-#include "nepLangCPP"
+#include "nepLang.h"
 
-
-thuloAanka gara_pheri(natrasamet main() {
-    vana_sathi("Namaste, Sansar!\n");
-    xordeu
-})
+int main(){
+    vana_sathi << "Namaste Sansar! \n";
+}
 ```
 
 ### Example 2: Simple Addition
 ```cpp
-#include "nepLangCPP"
+#include "nepLang.h"
 
+int main(){
+    sankhya autaNumber;
+    sankhya arkoNumber;
 
-thuloAanka gara_pheri(natrasamet main() {
-    sankhya a = 5;
-    sankhya b = 10;
-    sankhya result = a + b;
+    vana_sathi << "Auta Number Deu: ";
+    maga_sathi >> autaNumber;
 
-    vana_sathi("Jog: " + result + "\n");
-    xordeu
-})
+    vana_sathi << "Arko Number Deu: ";
+    maga_sathi >> arkoNumber;
+
+    vana_sathi << "Timro Uttar " << autaNumber + arkoNumber << " aayo!";
+}
 ```
 
 ## Contact
