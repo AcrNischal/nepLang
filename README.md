@@ -1,3 +1,5 @@
+Certainly! Below is an updated README with a table providing links to the developers' portfolios.
+
 # NepLangCPP
 
 Welcome to the NepLangCPP repository! NepLangCPP is a programming language designed for fun and experimentation. Please note that it is not intended for serious use but rather as a playful and creative exploration of programming concepts in a Nepali-inspired syntax.
@@ -101,6 +103,11 @@ If you have any questions, feedback, or suggestions, feel free to reach out to u
 
 ## Developers
 
-NepLangCPP is developed and maintained by Nishchal Acharya and Sahil Acharya. Connect with the developers on GitHub: [Nishchal Acharya](https://github.com/nishacharya), [Sahil Acharya](https://github.com/sahilacharya).
+NepLangCPP is developed and maintained by Nishchal Acharya and Sahil Acharya.
+
+| Developer         | Portfolio                                  |
+| ----------------- | ------------------------------------------ |
+| Nishchal Acharya  | [https://nishchalacharya.com.np](https://nishchalacharya.com.np)  |
+| Sahil Acharya     | [https://sahilacharya.com.np](https://sahilacharya.com.np) |
 
 Enjoy coding in NepLangCPP for some lighthearted programming fun! 🎉
