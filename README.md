@@ -1,7 +1,10 @@
 # NepLangCPP
 
 Welcome to the NepLangCPP repository! NepLangCPP is a programming language designed for fun and experimentation. Please note that it is not intended for serious use but rather as a playful and creative exploration of programming concepts in a Nepali-inspired syntax.
+
 <img src="img/nepLangCPP_avatar.png" alt="Introduction Image" width="200"/>
+
+
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Syntax](#syntax)
