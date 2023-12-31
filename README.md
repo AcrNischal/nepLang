@@ -31,9 +31,9 @@ To start playing with NepLangCPP, follow these simple steps:
        sankhya b = 10;
 
        yedi (a < b) {
-           vana_sathi("b bhaneko a bata thulo cha." + "\n");
+           vana_sathi("b bhaneko a bata thulo cha.\n");
        } vaynaVane {
-           vana_sathi << "a bhaneko b bata thulo cha." + "\n");
+           vana_sathi("a bhaneko b bata thulo cha.\n");
        }
 
        xordeu
