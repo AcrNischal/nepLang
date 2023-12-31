@@ -20,8 +20,8 @@ To start playing with NepLangCPP, follow these simple steps:
 
 2. **Include the NepLangCPP Header:**
    ```cpp
-   rakha <npl.h>
-   using namespace npl;
+   #include "nepLangCPP"
+   
    ```
 
 3. **Write Your NepLangCPP Code:**
@@ -31,9 +31,9 @@ To start playing with NepLangCPP, follow these simple steps:
        sankhya b = 10;
 
        yedi (a < b) {
-           vana_sathi << "b bhaneko a bata thulo cha." << endl;
+           vana_sathi("b bhaneko a bata thulo cha." + "\n");
        } vaynaVane {
-           vana_sathi << "a bhaneko b bata thulo cha." << endl;
+           vana_sathi << "a bhaneko b bata thulo cha." + "\n");
        }
 
        xordeu
@@ -71,26 +71,26 @@ Feel free to explore more in the examples section.
 
 ### Example 1: Hello World
 ```cpp
-rakha <npl.h>
-using namespace npl;
+#include "nepLangCPP"
+
 
 thuloAanka gara_pheri(natrasamet main() {
-    vana_sathi << "Namaste, Sansar!" << endl;
+    vana_sathi("Namaste, Sansar!\n");
     xordeu
 })
 ```
 
 ### Example 2: Simple Addition
 ```cpp
-rakha <npl.h>
-using namespace npl;
+#include "nepLangCPP"
+
 
 thuloAanka gara_pheri(natrasamet main() {
     sankhya a = 5;
     sankhya b = 10;
     sankhya result = a + b;
 
-    vana_sathi << "Jog: " << result << endl;
+    vana_sathi("Jog: " + result + "\n");
     xordeu
 })
 ```
