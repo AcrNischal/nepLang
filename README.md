@@ -101,7 +101,7 @@ int main(){
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, feel free to reach out to us at [lahcsinayrahca@gmail.com](mailto:lahcsinayrahca@gmail.com) or [acrsahil18@gmail.com](mailto:acrsahil18@gmail.com).
+If you have any questions, feedback, or suggestions, feel free to reach out to us at [nismsg1@gmail.com](mailto:nismsg1@gmail.com) or [acrsahil18@gmail.com](mailto:acrsahil18@gmail.com).
 
 ## Developers
 
